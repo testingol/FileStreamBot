@@ -1,3 +1,15 @@
+title: FileStreamBot
+emoji: 📈
+colorFrom: pink
+colorTo: blue
+sdk: docker
+pinned: false
+
+---------------
+
+
+
+
 <div align="center"><h1>🌐File Stream Bot</h1>
 <b>An open-source Python Telegram bot to transmit Telegram files over HTTP.</b>
 </div><br>
