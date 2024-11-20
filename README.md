@@ -1,6 +1,8 @@
+---
 title: FileStreamBot
-emoji: 📈
-colorFrom: pink
-colorTo: blue
 sdk: docker
-pinned: false
+emoji: 😻
+colorFrom: indigo
+colorTo: green
+pinned: true
+---
