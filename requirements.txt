@@ -1,4 +1,0 @@
-hydrogram
-tgcrypto
-quart
-uvicorn
